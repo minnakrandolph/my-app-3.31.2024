@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import React from 'react'; 
 import './App.css';
-import Weather from "./WeatherSearch";
 import WeatherSearch from './WeatherSearch';
 
 
