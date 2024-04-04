@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import React from 'react'; 
 import './App.css';
-import Weather from "./Weather";
+import Weather from "./WeatherSearch";
+import WeatherSearch from './WeatherSearch';
 
 
 
@@ -12,7 +13,7 @@ function App() {
        <h1>
          hello world 
         </h1>
-        <Weather />
+        <WeatherSearch />
        </header>
     </div>
   );
