@@ -14,6 +14,7 @@ function App() {
         </h1>
         <WeatherSearch />
        </header>
+       <footer>coded by Minna Randolph <a href="https://github.com/minnakrandolph/my-app-3.31.2024">link to github</a></footer>
     </div>
   );
 }
